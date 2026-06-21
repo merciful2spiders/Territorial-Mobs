@@ -1,4 +1,5 @@
 Territorial Mobs Installation Guide
+
 Territorial Mobs requires Minecraft 26.1.2, NeoForge 26.1.2.74, and the Territorial Mobs mod JAR.
 Local AI dialogue is optional. Without it, villagers still speak using built-in fallback dialogue.
 1. Install Minecraft and NeoForge
